@@ -1,0 +1,14 @@
+C:\Users\Murka\OneDrive\Desktop\code practise\c_like_projects\Csharp\kidkod\data_type\bin\Debug\net10.0\data_type.exe
+C:\Users\Murka\OneDrive\Desktop\code practise\c_like_projects\Csharp\kidkod\data_type\bin\Debug\net10.0\data_type.deps.json
+C:\Users\Murka\OneDrive\Desktop\code practise\c_like_projects\Csharp\kidkod\data_type\bin\Debug\net10.0\data_type.runtimeconfig.json
+C:\Users\Murka\OneDrive\Desktop\code practise\c_like_projects\Csharp\kidkod\data_type\bin\Debug\net10.0\data_type.dll
+C:\Users\Murka\OneDrive\Desktop\code practise\c_like_projects\Csharp\kidkod\data_type\bin\Debug\net10.0\data_type.pdb
+C:\Users\Murka\OneDrive\Desktop\code practise\c_like_projects\Csharp\kidkod\data_type\obj\Debug\net10.0\data_type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murka\OneDrive\Desktop\code practise\c_like_projects\Csharp\kidkod\data_type\obj\Debug\net10.0\data_type.AssemblyInfoInputs.cache
+C:\Users\Murka\OneDrive\Desktop\code practise\c_like_projects\Csharp\kidkod\data_type\obj\Debug\net10.0\data_type.AssemblyInfo.cs
+C:\Users\Murka\OneDrive\Desktop\code practise\c_like_projects\Csharp\kidkod\data_type\obj\Debug\net10.0\data_type.csproj.CoreCompileInputs.cache
+C:\Users\Murka\OneDrive\Desktop\code practise\c_like_projects\Csharp\kidkod\data_type\obj\Debug\net10.0\data_type.dll
+C:\Users\Murka\OneDrive\Desktop\code practise\c_like_projects\Csharp\kidkod\data_type\obj\Debug\net10.0\refint\data_type.dll
+C:\Users\Murka\OneDrive\Desktop\code practise\c_like_projects\Csharp\kidkod\data_type\obj\Debug\net10.0\data_type.pdb
+C:\Users\Murka\OneDrive\Desktop\code practise\c_like_projects\Csharp\kidkod\data_type\obj\Debug\net10.0\data_type.genruntimeconfig.cache
+C:\Users\Murka\OneDrive\Desktop\code practise\c_like_projects\Csharp\kidkod\data_type\obj\Debug\net10.0\ref\data_type.dll

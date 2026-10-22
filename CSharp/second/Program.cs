@@ -1,0 +1,15 @@
+﻿Console.WriteLine("whats your name?");
+string name = Console.ReadLine();
+Console.WriteLine("whats your last name?");
+string lastName = Console.ReadLine();
+Console.WriteLine($"hi {name} {lastName}");
+Console.WriteLine("this is random text");
+Console.WriteLine("this is also a random text");
+Console.WriteLine("and this is yet another random text");
+Console.WriteLine("this is the last random text");
+Console.WriteLine("what is your hobby?");
+string hobby = Console.ReadLine();
+Console.WriteLine($"cool, {hobby} is a random hobby");
+Console.WriteLine("how old are you?");
+int age = int.Parse(Console.ReadLine());
+Console.WriteLine($"random fact: you are {age} years old");
